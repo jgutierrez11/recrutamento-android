@@ -1,6 +1,21 @@
 <resources>
-    <string name="app_name">Test</string>
+    <string name="app_name">Movile Test</string>
 
-    <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
+    <string name="season8">Season 8</string>
+    <string name="getting_episodes_list">Getting episodes list</string>
+    <string name="getting_rating">Getting seasong rating</string>
+
+    <string name="header_episodes">Episodes</string>
+    <string name="error_getting_data">Opss! \nThere was an error trying to get data from server, please try again</string>
+
+
+    <!-- Check internet connection -->
+    <string name="internet_title">No internet connection</string>
+    <string name="internet_message">You need an internet connection to be able to use this app.
+                                            \nPlease turn your Wi-Fi on.</string>
+    <string name="internet_settings_button">Turn Wi-Fi on</string>
+    <string name="internet_cancel_button">Cancel</string>
+    <string name="internet_turning_wifiOn">Turning Wi-Fi on</string>
+
+
 </resources>
